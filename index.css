@@ -83,6 +83,7 @@
 				height: 450px;
 				margin: auto;
 				border-radius: 10px;
+				cursor: pointer;
 			}
 
 			#cards-section {
@@ -98,6 +99,7 @@
 				height: 230px;
 				border: 1px solid lightgray;
 				margin: 10px;
+				cursor: pointer;
 			}
 
 			.content h1 {
@@ -140,6 +142,7 @@
 			.sub-container img {
 				margin: 8px 30px 5px 30px;
 				border-radius: 10px;
+				cursor: pointer;
 			}
 
 			.sub-container h3 {
@@ -164,6 +167,7 @@
 			div .gift-img {
 				width: 80%;
 				height: auto;
+				cursor: pointer;
 			}
 
 			.div-13>h1,
@@ -188,6 +192,7 @@
 			.diamond-container img {
 				width: 300px;
 				border-radius: 10px;
+				cursor: pointer;
 			}
 
 			.diamond-container h4 {
@@ -210,6 +215,7 @@
 				border-radius: 10px;
 				margin: 3px;
 				width: 450px;
+				cursor: pointer;
 			}
 
 			.occasion-container h2 {
@@ -334,6 +340,7 @@
 				width: 330px;
 				height: 350px;
 				margin: 0px 5px;
+				cursor: pointer;
 			}
 
 			.gender-img-div h4 {
@@ -362,6 +369,7 @@
 			#flex-div img {
 			    width: 100%;
 				display: block;
+				cursor: pointer;
 			}
 
 			.tanishq-exp h1 {
